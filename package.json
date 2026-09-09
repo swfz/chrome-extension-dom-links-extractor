@@ -9,9 +9,9 @@
     "dev": "npm run build -- --watch"
   },
   "devDependencies": {
-    "vitest": "^4.0.0",
-    "jsdom": "^30.0.0",
-    "esbuild": "^0.28.1"
+    "vitest": "4.1.11",
+    "jsdom": "30.0.1",
+    "esbuild": "0.28.2"
   },
   "vitest": {
     "test": {
