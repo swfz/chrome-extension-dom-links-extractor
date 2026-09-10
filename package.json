@@ -9,7 +9,7 @@
     "dev": "npm run build -- --watch"
   },
   "devDependencies": {
-    "vitest": "4.1.11",
+    "vitest": "5.0.0",
     "jsdom": "30.0.1",
     "esbuild": "0.28.2"
   },
